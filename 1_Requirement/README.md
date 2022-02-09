@@ -4,6 +4,24 @@ In the online banking system. User need to create an account using random accoun
 # Research:
 Bank management system is based on a concept to view balance inquiry, depositing cash, cash withdrawal, online transfer and password change. In this application first user need to registered an bank account using account number, phone no., password after that bank account is created in .dat file.user need to login through the phone number and password after the user will see the options they need to choose anyone one option at one time. 
 
-# SWOT Analysis
+# SWOT Analysis:
 ## Strength
-User will be able to check balance, deposite cash, cash withdrawl, online transfer, and user will be able to change the password.
+1. Availabilty
+2. Save time and efforts
+3. Easy to access
+4. Accessibility
+
+## Weakness
+1. Network difficulties
+2. Lack of information
+3. Limited Services
+
+## Opportunities
+1. Fast growing
+2. Reliability
+3. Fast creating account
+
+## Threats
+1. Networking
+2. Competitive market
+

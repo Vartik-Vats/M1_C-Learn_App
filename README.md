@@ -6,12 +6,11 @@ The typical way to retain the data of a customer in a bank was to enter and regi
 |Folder|Description|
 |:-:|:--:|
 |0_Certficate||
-|1_Requirement||
-|2_Architecture||
-|3_Implementation||
-|4_TestPlanAndOutput||
-|5_Report||
-|6_ImagesAndVideos||
+|1_Requirement|Documents detailing requirements and research|
+|2_Architecture|Documents specifying design details|
+|3_Implementation|All code and documentation|
+|4_TestPlanAndOutput|Documents with test plans and procedures|
+|5_Report|Attach Report with all the scope of work|
 ## Refernces
 |S.No.|Links|
 |:-:|:--:|

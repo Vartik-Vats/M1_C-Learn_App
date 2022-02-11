@@ -6,4 +6,10 @@ The typical way to retain the data of a customer in a bank was to enter and regi
 # Folder Structure
 |Folder|Description|
 |:-:|:--:|
-||||
+|0_Certficate||
+|1_Requirement||
+|2_Architecture||
+|3_Implementation||
+|4_TestPlanAndOutput||
+|5_Report||
+|6_ImagesAndVideos||

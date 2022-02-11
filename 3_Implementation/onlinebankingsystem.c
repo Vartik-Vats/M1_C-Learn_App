@@ -141,6 +141,7 @@ int main(){
             printf("\nInvalid password");
         }
         }
+         printf("\n\n**Thank you for Banking**\n\n");
     }
     return 0;
 }

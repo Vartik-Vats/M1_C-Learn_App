@@ -9,4 +9,4 @@ In this flow chart explain how to register in the bank account.
 ## LoginAccount
 In this flow chart, explain about the login function.
 ## AllFunctions
-In this flow chart, explaining the functions of the banking system how it works.
+In this flow chart, explaining the features after login in an account system how it works.

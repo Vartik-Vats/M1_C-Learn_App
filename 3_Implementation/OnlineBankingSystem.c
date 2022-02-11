@@ -55,7 +55,7 @@ int main(){
         } else{
         fread(&usr, sizeof(struct user),1,fp);
         fclose(fp);
-        if (strcmp(pword, usr.password)){
+        if (!strcmp(pword, usr.password)){
             while(cont == 'y'){
                 system("cls");
                 printf("\n\tWelcome (%s)", usr.phone);

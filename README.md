@@ -15,8 +15,8 @@ The typical way to retain the data of a customer in a bank was to enter and regi
 ## References
 |S.No.|Links|
 |:-:|:--:|
-|1| https://www.freeprojectz.com/premium-synopsis/synopsis-online-banking-system#:~:text=%20Features%20of%20Online%20Banking%20System%20are%20as,as%20Accounts%2C%20Transaction%2C%20Statement%20are%20validated...%20More%20|
-|2|https://123projectlab.com/online-banking-system/#:~:text=%20Goals%20of%20the%20Online%20banking%20system%20project,project%20will%20make%20activities%20like%20updating%2C...%20More%20|
-|3|https://www.codewithc.com/mini-project-in-c-bank-management-system/|
-|4|https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html|
+|1| [Synopsis](https://www.freeprojectz.com/premium-synopsis/synopsis-online-banking-system#:~:text=%20Features%20of%20Online%20Banking%20System%20are%20as,as%20Accounts%2C%20Transaction%2C%20Statement%20are%20validated...%20More%20)|
+|2|[Project Lab](https://123projectlab.com/online-banking-system/#:~:text=%20Goals%20of%20the%20Online%20banking%20system%20project,project%20will%20make%20activities%20like%20updating%2C...%20More%20)|
+|3|[codewithc](https://www.codewithc.com/mini-project-in-c-bank-management-system/)|
+|4|[Projectgeek](https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html)|
 ## This is not my code, I am taking help from youtube and google to make this code.

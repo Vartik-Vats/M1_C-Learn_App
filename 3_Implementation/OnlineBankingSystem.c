@@ -26,11 +26,11 @@ int main(){
     if (opt==1){
         system("cls");
         printf("Enter your account number:\t");
-        scanf("%s", &usr.ac);
+        scanf("%s", usr.ac);
         printf("Enter your phone number:\t");
-        scanf("%s", &usr.phone);
-        printf("Enter your account password:\t");
-        scanf("%s", &usr.password);
+        scanf("%s", usr.phone);
+        printf("Enter your new password:\t");
+        scanf("%s", usr.password);
         usr.balance=0;
         strcpy(filename, usr.phone);
         fp = fopen(strcat(filename, ".dat"), "w");
@@ -45,9 +45,9 @@ int main(){
     if (opt == 2){
         system("cls");
         printf("\nPhone number:\t");
-        scanf("%s", &phone);
+        scanf("%s", phone);
         printf("Password:\t");
-        scanf("%s", &pword);
+        scanf("%s", pword);
         strcpy(filename, phone);
         fp= fopen(strcat(filename,".dat"),"r");
         if (fp == NULL){
@@ -78,7 +78,7 @@ int main(){
                     usr.balance += amount; 
                     fp= fopen(filename, "w");
                     fwrite(&usr, sizeof(struct user),1,fp);
-                    if(fwrite != NULL) printf("\nYou have succesfully deposited.");
+                    if(fwrite != NULL) printf("\nSuccesfully deposited.");
                     fclose(fp);
                     break;
                    
@@ -94,7 +94,7 @@ int main(){
 
                     case 4:
                     printf("\nPlease enter the phone number to transfer the balance:\t");
-                    scanf("%s", &phone);
+                    scanf("%s", phone);
                     printf("\nPlease enter the amount to transfer:\t");
                     scanf("%f", &amount);
                     strcpy(filename, phone);
@@ -141,7 +141,7 @@ int main(){
             printf("\nInvalid password");
         }
         }
-         printf("\n\n**Thank you for Banking**\n\n");
+        printf("\n\t**Thank you for Banking**\n\n");
     }
     return 0;
 }

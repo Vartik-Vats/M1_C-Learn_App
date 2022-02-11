@@ -11,5 +11,5 @@ In this flow chart, explain about the login function.
 ## AllFunctions
 In this flow chart, explaining the features after login in an account system how it works.
 ## References
-[Diagram](https://app.diagrams.net/)
+[Diagram.net](https://app.diagrams.net/)
 

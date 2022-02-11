@@ -19,3 +19,4 @@ The typical way to retain the data of a customer in a bank was to enter and regi
 |2|https://123projectlab.com/online-banking-system/#:~:text=%20Goals%20of%20the%20Online%20banking%20system%20project,project%20will%20make%20activities%20like%20updating%2C...%20More%20|
 |3|https://www.codewithc.com/mini-project-in-c-bank-management-system/|
 |4|https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html|
+## This is not my code, I am taking help from youtube and google to make this code.

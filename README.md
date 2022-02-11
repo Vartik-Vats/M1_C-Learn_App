@@ -13,4 +13,4 @@ The typical way to retain the data of a customer in a bank was to enter and regi
 |5_Report||
 |6_ImagesAndVideos||
 ## Refernces
-
+1. https://www.freeprojectz.com/premium-synopsis/synopsis-online-banking-system#:~:text=%20Features%20of%20Online%20Banking%20System%20are%20as,as%20Accounts%2C%20Transaction%2C%20Statement%20are%20validated...%20More%20

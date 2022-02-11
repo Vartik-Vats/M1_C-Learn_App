@@ -16,7 +16,7 @@ int main(){
     char cont= 'y';
     float amount;
 
-    printf("\n What do you want to do?");
+    printf("\n Please select the option");
     printf("\n\n1. Register an account");
     printf("\n2. Login to an account");    
 
@@ -29,7 +29,7 @@ int main(){
         scanf("%s", &usr.ac);
         printf("Enter your phone number:\t");
         scanf("%s", &usr.phone);
-        printf("Enter your new password:\t");
+        printf("Enter your account password:\t");
         scanf("%s", &usr.password);
         usr.balance=0;
         strcpy(filename, usr.phone);
@@ -45,9 +45,9 @@ int main(){
     if (opt == 2){
         system("cls");
         printf("\nPhone number:\t");
-        scanf("%s", phone);
+        scanf("%s", &phone);
         printf("Password:\t");
-        scanf("%s", pword);
+        scanf("%s", &pword);
         strcpy(filename, phone);
         fp= fopen(strcat(filename,".dat"),"r");
         if (fp == NULL){
@@ -55,7 +55,7 @@ int main(){
         } else{
         fread(&usr, sizeof(struct user),1,fp);
         fclose(fp);
-        if (!strcmp(pword, usr.password)){
+        if (strcmp(pword, usr.password)){
             while(cont == 'y'){
                 system("cls");
                 printf("\n\tWelcome (%s)", usr.phone);
@@ -74,17 +74,17 @@ int main(){
                     
                     case 2:
                     printf("\nEnter the amount:\t");
-                    scanf("%d", &amount);  
+                    scanf("%f", &amount);  
                     usr.balance += amount; 
                     fp= fopen(filename, "w");
                     fwrite(&usr, sizeof(struct user),1,fp);
-                    if(fwrite != NULL) printf("\nSuccesfully deposited.");
+                    if(fwrite != NULL) printf("\nYou have succesfully deposited.");
                     fclose(fp);
                     break;
                    
                     case 3:
                     printf("\nEnter the amount:\t");
-                    scanf("%d", &amount);  
+                    scanf("%f", &amount);  
                     usr.balance -= amount; 
                     fp= fopen(filename, "w");
                     fwrite(&usr, sizeof(struct user),1,fp);
@@ -94,9 +94,9 @@ int main(){
 
                     case 4:
                     printf("\nPlease enter the phone number to transfer the balance:\t");
-                    scanf("%s", phone);
+                    scanf("%s", &phone);
                     printf("\nPlease enter the amount to transfer:\t");
-                    scanf("%d", &amount);
+                    scanf("%f", &amount);
                     strcpy(filename, phone);
                     fp= fopen(strcat(filename, ".dat"), "r");
                     if (fp == NULL) printf("\nAccount number not registered");

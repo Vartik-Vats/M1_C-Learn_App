@@ -19,25 +19,11 @@ Online banking systems are important because these days there are many people wh
 The user must first register in the account, and then, using the ID and password, the user can perform balance inquiries, fund transfers, and so on.
 
 # SWOT Analysis:
-## Strength
-1. Availabilty
-2. Save time and efforts
-3. Easy to access
-4. Accessibility
-
-## Weakness
-1. Network difficulties
-2. Lack of information
-3. Limited Services
-
-## Opportunities
-1. Fast growing
-2. Reliability
-3. Fast creating account
-
-## Threats
-1. Networking
-2. Competitive market
+|Strength| Weakness|Opportunities|Threats|
+|:--:|:--:|:--:|:--:|
+|Availabilty|Network difficulties|Fast growing|Networking|
+|Save time and efforts|Lack of information|Reliability|Competitive market|
+|Easy to access|Limited Services|Fast creating account|Lack of knowledge|
 
 # High Level Requirement
 |ID|Description|Category|

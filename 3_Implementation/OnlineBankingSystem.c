@@ -16,7 +16,7 @@ int main(){
     char cont= 'y';
     float amount;
 
-    printf("\n Please select the option");
+    printf("\n What do you want to do?");
     printf("\n\n1. Register an account");
     printf("\n2. Login to an account");    
 

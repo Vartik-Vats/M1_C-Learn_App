@@ -5,12 +5,13 @@ The typical way to retain the data of a customer in a bank was to enter and regi
 ## Folder Structure
 |Folder|Description|
 |:-:|:--:|
-|0_Certficate||
+|0_Certficate|Sololearn, NDG Linux, Git, HackerEarth|
 |1_Requirement|Documents detailing requirements and research|
 |2_Architecture|Documents specifying design details|
 |3_Implementation|All code and documentation|
 |4_TestPlanAndOutput|Documents with test plans and procedures|
 |5_Report|Attach Report with all the scope of work|
+|6_ImagesAndVideos|All images related to the programming and video|
 ## References
 |S.No.|Links|
 |:-:|:--:|

@@ -1,6 +1,4 @@
 # Architecture
-### Add UML Diagrams
-### For information about UML Diagrams refer: UML Diagrams
 ## UML Diagram
 1. Structural Diagram
 2. Sequence Diagram
@@ -12,3 +10,6 @@ In this flow chart explain how to register in the bank account.
 In this flow chart, explain about the login function.
 ## AllFunctions
 In this flow chart, explaining the features after login in an account system how it works.
+## References
+(https://app.diagrams.net/)
+

@@ -1,6 +1,7 @@
 # Architecture
 ## UML Diagram
-Structural Diagram, Sequence Diagram
+* Structural Diagram
+* Sequence Diagram
 ## Banking System flow chart
 In this flow chart, explaining all the function and features.
 ## RegisterAccount

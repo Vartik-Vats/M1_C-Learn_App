@@ -1,5 +1,6 @@
 # Architecture
 ## UML Diagram
+Markup
 * Structural Diagram
 * Sequence Diagram
 ## Banking System flow chart

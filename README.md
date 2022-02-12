@@ -1,8 +1,5 @@
 # Online Banking System
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/58be648c1cec4b1e9c93fa969564e922)](https://www.codacy.com/gh/Vartik-Vats/M1_C-Learn_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vartik-Vats/M1_C-Learn_App&amp;utm_campaign=Badge_Grade)
-|Build|Unit Test|cppcheck|Valgrind|Codacy|
-|:--:|:--:|:--:|:--:|:--:|
-|![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/workflows/C/C++%20CI/badge.svg)|![Unit testing](https://github.com/stepin654321/MiniProject_Template/workflows/Unit%20testing/badge.svg)|![cppcheck-action](https://github.com/stepin654321/MiniProject_Template/workflows/cppcheck-action/badge.svg)|![Valgrind](https://github.com/stepin654321/MiniProject_Template/workflows/Valgrind/badge.svg)|[![Codacy Badge] https://app.codacy.com/project/badge/Grade/58be648c1cec4b1e9c93fa969564e922)](https://www.codacy.com/gh/Vartik-Vats/M1_C-Learn_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vartik-Vats/M1_C-Learn_App&amp;utm_campaign=Badge_Grade)|
 ## Introduction
 The online banking interface is primarily designed for online banking for balance inquiry, depositing cash, cash withdrawal, online transfer, and password change.
 ## Purpose

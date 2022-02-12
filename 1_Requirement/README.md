@@ -41,7 +41,3 @@ The user must first register in the account, and then, using the ID and password
 |LLR02|User able to add an account|Technical|
 |LLR03|System generate a bank account|Technical|
 |LLR04|System provide the detail of the customer|Technical|
-
-
-
-

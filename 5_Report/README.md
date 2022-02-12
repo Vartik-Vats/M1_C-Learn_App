@@ -4,8 +4,8 @@ The proposed project comprises the design of an Online Banking System where user
 
 ## Scope of work
 ## Register, Log-in
-*Users can create an account by entering their account number, phone number, and password.
-*User can log in with their phone number and password.
+* Users can create an account by entering their account number, phone number, and password.
+* User can log in with their phone number and password.
 ## Home
 1 User can view different services on the homepage.
 2 User can view the option for the check balance.

@@ -1,7 +1,7 @@
 # Online Banking System
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/58be648c1cec4b1e9c93fa969564e922)](https://www.codacy.com/gh/Vartik-Vats/M1_C-Learn_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vartik-Vats/M1_C-Learn_App&amp;utm_campaign=Badge_Grade)
-[![Code Score](https://api.codiga.io/project/31550/score/svg)]
-[![Code Grade](https://api.codiga.io/project/31550/status/svg)]
+![Code Score](https://api.codiga.io/project/31550/score/svg)
+![Code Grade](https://api.codiga.io/project/31550/status/svg)
 ## Introduction
 The online banking interface is primarily designed for online banking for balance inquiry, depositing cash, cash withdrawal, online transfer, and password change.
 ## Purpose

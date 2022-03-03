@@ -1,7 +1,6 @@
 #include "bankingsystem.h"
 
 int main(){
-
     printf("\n What do you want to do?");
     printf("\n\n1. Register an account");
     printf("\n2. Login to an account");    
@@ -10,7 +9,7 @@ int main(){
     scanf("%d", &opt);
     
     if (opt==1){
-        system("cls");
+        system("clear");
         printf("Enter your account number:\t");
         scanf("%s", usr.ac);
         printf("Enter your phone number:\t");
@@ -29,7 +28,7 @@ int main(){
         fclose(fp);
     }
     if (opt == 2){
-        system("cls");
+        system("clear");
         printf("\nPhone number:\t");
         scanf("%s", phone);
         printf("Password:\t");
@@ -43,7 +42,7 @@ int main(){
         fclose(fp);
         if (!strcmp(pword, usr.password)){
             while(cont == 'y'){
-                system("cls");
+                system("clear");
                 printf("\n\tWelcome (%s)", usr.phone);
                 printf("\nPress 1 for Balance Inquiry");
                 printf("\nPress 2 for Depositing Cash");
